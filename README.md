@@ -35,7 +35,7 @@ ou
 yarn
 ```
 
-3. Acesse diretório _backend_ e execute o comando abaixo para criar o banco de dados:
+3. Acesse diretório `backend` e execute o comando abaixo para criar o banco de dados:
 
 ```sh
 npm run knex:migration
