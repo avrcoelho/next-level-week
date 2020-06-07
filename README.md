@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./assets/demo.jpg">
 </p>
-<p align="center">Rocketseat - Nexet Level Week 1.0</p>
+<p align="center">Rocketseat - Next Level Week 1.0</p>
 
 ## Sobre
 
