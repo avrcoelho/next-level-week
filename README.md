@@ -49,7 +49,7 @@ yarn knex:migration
 yarn knex:seed
 ```
 
-4. Acesse o diretório _backend_ e execute o comando abaixo para executar o backend:
+4. Acesse o diretório `backend` e execute o comando abaixo para executar o backend:
 
 ```sh
 npm run dev
@@ -61,7 +61,7 @@ ou
 yarn dev
 ```
 
-5. Acesse o diretório _front_ e execute o comando abaixo para executar a aplicação web:
+5. Acesse o diretório `front` e execute o comando abaixo para executar a aplicação web:
 
 ```sh
 npm start
@@ -73,7 +73,7 @@ ou
 yarn start
 ```
 
-6. Acesse o diretório _app_ e execute o comando abaixo para executar a aplicação mobile:
+6. Acesse o diretório `app` e execute o comando abaixo para executar a aplicação mobile:
 
 ```sh
 npm start
