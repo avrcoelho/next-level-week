@@ -9,13 +9,13 @@ Aplicação desenvolvida com o intuito de ajudar na coleta de resíduos.
 
 ## Tecnologias utilizadas
 
-[ReactJS](https://pt-br.reactjs.org/)
-[React Native](https://reactnative.dev/)
-[Expo](https://expo.io/)
-[Typescript](https://www.typescriptlang.org/)
-[NodeJS](https://nodejs.org/en/)
-[Knex](http://knexjs.org/)
-[SQlite](https://www.sqlite.org/index.html)
+- [ReactJS](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.io/)
+- [Typescript](https://www.typescriptlang.org/)
+- [NodeJS](https://nodejs.org/en/)
+- [Knex](http://knexjs.org/)
+- [SQlite](https://www.sqlite.org/index.html)
 
 ## Execução
 
