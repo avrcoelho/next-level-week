@@ -63,7 +63,7 @@ const Home: React.FC = () => {
 
           <RectButton style={styles.button} onPress={handleNavigatige}>
             <View style={styles.buttonIcon}>
-              <Icon name="arrow-icon" color="#fff" size={24} />
+              <Icon name="log-in" color="#fff" size={24} />
             </View>
             <Text style={styles.buttonText}>Entrar</Text>
           </RectButton>
